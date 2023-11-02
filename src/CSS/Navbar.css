@@ -1,0 +1,13 @@
+.navbar_main{
+    background-color: #1d2125;
+    height: 8vh;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+.links{
+    color: #77828e;
+    text-decoration: none;
+    padding-left: 4%;
+}

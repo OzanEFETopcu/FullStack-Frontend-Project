@@ -1,0 +1,35 @@
+.info_main{
+    padding-left: 5%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 40vw 40vw;
+}
+
+.text_box{
+    background-color: rgb(122, 98, 98);
+    width: 30vw;
+    height: auto;
+    padding-left: 5%;
+    padding-top: 0.2%;
+    padding-bottom: 0.2%;
+    margin-top: 5%;
+    margin-left: 5%;
+    display:flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.instructions{
+    margin: auto;
+    margin-top: 2%;
+    height: 100%;
+    background-color: rgb(122, 98, 98);
+    width: 90%;
+    height: auto;
+    padding-top: 0.2%;
+    padding-bottom: 0.2%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
