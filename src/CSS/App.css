@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+body, html {
+  margin: 0;
+  height: 100%;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-height: 100vh; /* Make sure the container takes up at least the height of the viewport */
 }
 
 

@@ -26,9 +26,11 @@ function Info(){
           </p>
         </div>
       </div>
-      
+
       <div className='instructions'>
         <h3>INSTRUCTIONS ON HOW TO USE</h3>
+        <p> The UI hints help the user to figure out how to use the application
+        </p>
       </div>
     </>
   );
